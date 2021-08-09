@@ -34,18 +34,7 @@
             "EnvironmentId": "e5cf3be1-069d-4398-aaa4-f8840fd6e125",
             "EnvironmentName": "Dev_Env_1",
             "EnvironmentType": "DEV",
-            "Databases": [
-              {
-                "DatabaseId": "c7e922be-ed17-4e62-af76-2dc8dc9caf18",
-                "DatabaseAliasName": "PRJ1",
-                "DatabaseConnectionDetails": null,
-                "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git, Version=21.3.1.7666, Culture=neutral, PublicKeyToken=null",
-                  "RemoteRepositoryURL": "https://github.com/Romango9/SCTest.git",
-                  "BranchName": "main"
-                }
-              }
-            ]
+            "Databases": []
           }
         ],
         "SourceControlPathType": 0,
@@ -62,24 +51,7 @@
       "UserData": [
         {
           "UserName": "Romango9",
-          "DatabasesData": [
-            {
-              "DatabaseId": "c7e922be-ed17-4e62-af76-2dc8dc9caf18",
-              "DatabaseAliasName": "PRJ1",
-              "DatabaseConnectionDetails": {
-                "DBTypeName": "SQL Server",
-                "Host": "LAPTOP-O63321MM\\SQLEXPRESS",
-                "AuthenticationType": 1,
-                "Username": "romanG",
-                "Password": "9JeWnPfSZENk1fBj0YBB1w==",
-                "DatabaseName": "DEV_NUM"
-              },
-              "RepositoryCredentials": {
-                "UserName": "Romango9",
-                "Password": "rfB17y3B5nodQzzVpjz3dg=="
-              }
-            }
-          ]
+          "DatabasesData": []
         }
       ]
     }
