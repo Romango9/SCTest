@@ -1,0 +1,29 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "42c70b97-a71a-4908-9fbb-91ef860f4539",
+        "ProjectName": "Test",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "BuildMethod": 1,
+          "NumberOfRevisionsInViewHistory": 50,
+          "NumberOfTagsInBuildOptions": 50,
+          "BuildDeploymentScriptOnPush": false
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "C:\\SCTest"
+      },
+      "UserData": [
+        {
+          "UserName": "Romango9",
+          "DatabasesData": []
+        }
+      ]
+    }
+  ],
+  "GlobalConfigurations": null
+}
