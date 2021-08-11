@@ -131,30 +131,6 @@
           ]
         }
       ]
-    },
-    {
-      "GlobalData": {
-        "ProjectId": "ab50f12f-7ef3-4b3f-aa68-266a5514c9e2",
-        "ProjectName": "project3",
-        "DBTypeName": "SQL Server",
-        "Environments": null,
-        "SourceControlPathType": 0,
-        "Configuration": {
-          "BuildMigrationScriptAutomatically": true,
-          "BuildMethod": 1,
-          "NumberOfRevisionsInViewHistory": 50,
-          "NumberOfTagsInBuildOptions": 50,
-          "BuildDeploymentScriptOnPush": false
-        },
-        "ProjectArchitecture": 0,
-        "LocalDirectory": "Documents/project3"
-      },
-      "UserData": [
-        {
-          "UserName": "Romango9",
-          "DatabasesData": []
-        }
-      ]
     }
   ],
   "GlobalConfigurations": null
