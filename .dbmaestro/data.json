@@ -80,7 +80,14 @@
               {
                 "DatabaseId": "8da6fbb2-a987-4c9b-848c-77c7d5a5a2ac",
                 "DatabaseAliasName": "Prj2",
-                "DatabaseConnectionDetails": null,
+                "DatabaseConnectionDetails": {
+                  "DBTypeName": "SQL Server",
+                  "Host": "LAPTOP-O63321MM\\SQLEXPRESS",
+                  "AuthenticationType": 1,
+                  "Username": "romanG",
+                  "Password": "12qwaszx",
+                  "DatabaseName": "DEV_NUM"
+                },
                 "RepositoryDetails": {
                   "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git, Version=21.3.1.7666, Culture=neutral, PublicKeyToken=null",
                   "RemoteRepositoryURL": "https://github.com/Romango9/SCTest.git",
@@ -113,7 +120,7 @@
                 "Host": "LAPTOP-O63321MM\\SQLEXPRESS",
                 "AuthenticationType": 1,
                 "Username": "romanG",
-                "Password": "9JeWnPfSZENk1fBj0YBB1w==",
+                "Password": "12qwaszx",
                 "DatabaseName": "DEV_NUM"
               },
               "RepositoryCredentials": {
@@ -122,6 +129,30 @@
               }
             }
           ]
+        }
+      ]
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "be2f813a-8218-4453-80ba-1904cbf02c3d",
+        "ProjectName": "project3",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "BuildMethod": 1,
+          "NumberOfRevisionsInViewHistory": 50,
+          "NumberOfTagsInBuildOptions": 50,
+          "BuildDeploymentScriptOnPush": false
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "Documents/project3"
+      },
+      "UserData": [
+        {
+          "UserName": "Romango9",
+          "DatabasesData": []
         }
       ]
     }
